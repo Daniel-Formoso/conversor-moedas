@@ -19,3 +19,13 @@ Este é um **Conversor de Moeda** desenvolvido com **React**. O projeto permite 
 - Interface simples e intuitiva para selecionar as moedas e inserir os valores.
 - Dados de câmbio atualizados em tempo real para garantir a precisão das conversões.
 
+## Acessar projeto!
+- [Deploy](https://conversor-moedas-two.vercel.app/)
+
+## Quer ver outros projetos? Acesse o meu Portfólio ou meu GitHub!
+- [Portfólio](https://meu-site-murex-chi.vercel.app/)
+- [GitHub](https://github.com/Daniel-Formoso)  
+
+## Contatos:
+- E-mail: daniel.formoso100@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/danielformoso/)

@@ -50,10 +50,13 @@ function App() {
         <div className="container-redes">
           <p>Entre em contato!</p>
           <div className="redes">
-            <a href="https://www.linkedin.com/in/danielformoso/">
+            <a
+              href="https://www.linkedin.com/in/danielformoso/"
+              target="_blank"
+            >
               <FaLinkedin />
             </a>
-            <a href="">
+            <a href="https://github.com/Daniel-Formoso" target="_blank">
               <FaGithub />
             </a>
           </div>

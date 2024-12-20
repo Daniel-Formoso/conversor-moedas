@@ -97,7 +97,7 @@ function App() {
 
           <div className="conteudo-input">
             <input
-              type="text"
+              type="number"
               value={valor}
               onChange={(evento) => setValor(evento.target.value)}
             />

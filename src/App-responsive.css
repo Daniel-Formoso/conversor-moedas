@@ -8,6 +8,10 @@
     cursor: pointer;
   }
 
+  .conteudo .titulo h2 {
+    font-size: 1.7rem;
+  }
+
   .container-botao button {
     transition: .5s ease-in-out;
   }

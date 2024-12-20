@@ -4,7 +4,8 @@
     justify-content: space-between;
   }
 
-  select, button {
+  select,
+  button {
     cursor: pointer;
   }
 
@@ -13,7 +14,7 @@
   }
 
   .container-botao button {
-    transition: .5s ease-in-out;
+    transition: 0.5s ease-in-out;
   }
 
   .container-botao button:hover {
@@ -21,7 +22,7 @@
   }
 
   .redes a {
-    transition: .5s ease-in-out;
+    transition: 0.5s ease-in-out;
   }
 
   .redes a:hover {

@@ -1,0 +1,26 @@
+@media only screen and (min-width: 900px) {
+  .interface-conversor {
+    width: 500px;
+    justify-content: space-between;
+  }
+
+  select, button {
+    cursor: pointer;
+  }
+
+  .container-botao button {
+    transition: .5s ease-in-out;
+  }
+
+  .container-botao button:hover {
+    background-color: #2c6e49a4;
+  }
+
+  .redes a {
+    transition: .5s ease-in-out;
+  }
+
+  .redes a:hover {
+    color: #2c6e49a4;
+  }
+}

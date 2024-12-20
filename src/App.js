@@ -47,21 +47,6 @@ function App() {
   return (
     <div className="App">
       <div className="interface-conversor">
-        <div className="container-redes">
-          <p>Entre em contato!</p>
-          <div className="redes">
-            <a
-              href="https://www.linkedin.com/in/danielformoso/"
-              target="_blank"
-            >
-              <FaLinkedin />
-            </a>
-            <a href="https://github.com/Daniel-Formoso" target="_blank">
-              <FaGithub />
-            </a>
-          </div>
-        </div>
-
         <div className="conteudo">
           <div className="titulo">
             <img src="imagens/icone.webp" />
@@ -137,8 +122,18 @@ function App() {
         </div>
 
         <div className="desenvolvedor">
-          <p>2024 Todos os direitos reservados.</p>
-          <p>Daniel Formoso</p>
+          <p>Desenvolvido por Daniel Formoso.</p>
+          <div className="redes">
+            <a
+              href="https://www.linkedin.com/in/danielformoso/"
+              target="_blank"
+            >
+              <FaLinkedin />
+            </a>
+            <a href="https://github.com/Daniel-Formoso" target="_blank">
+              <FaGithub />
+            </a>
+          </div>
         </div>
       </div>
     </div>

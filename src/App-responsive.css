@@ -14,7 +14,7 @@
   }
 
   .container-botao button {
-    transition: 0.5s ease-in-out;
+    transition: .3s ease-in-out;
   }
 
   .container-botao button:hover {
@@ -22,7 +22,7 @@
   }
 
   .redes a {
-    transition: 0.5s ease-in-out;
+    transition: .3s ease-in-out;
   }
 
   .redes a:hover {

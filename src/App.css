@@ -114,6 +114,11 @@
   border: 0;
 }
 
+.conteudo-input input::placeholder {
+  color: #fefee3;
+  opacity: .5;
+}
+
 .container-botao-e-resultado {
   width: 100%;
   display: flex;
